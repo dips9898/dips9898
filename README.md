@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dips9898
 - 👀 I’m a Workaholic
-- 🌱 I’m currently learning how to become rich
+- 🌱 I’m a QA Tester
 - 📫 Reach me through my Email: deepanshugarg743@gmail.com
 
 <!---
